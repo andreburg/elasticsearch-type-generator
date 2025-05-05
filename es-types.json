@@ -1,0 +1,6 @@
+{
+  "env": ".env",
+  "dir": "./src/types",
+  "include": ["^[^\\.]"],
+  "exclude": ["^metrics"]
+}
